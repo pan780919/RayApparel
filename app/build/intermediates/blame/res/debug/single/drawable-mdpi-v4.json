@@ -60,12 +60,12 @@
         "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_tall_off_client.png",
-        "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-mdpi-v4\\ic_plusone_tall_off_client.png"
-    },
-    {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\powered_by_google_dark.png",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-mdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-mdpi-v4\\ic_plusone_tall_off_client.png"
     },
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",

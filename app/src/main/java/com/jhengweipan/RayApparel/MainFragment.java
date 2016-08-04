@@ -465,6 +465,7 @@ public class MainFragment extends Fragment implements View.OnClickListener, Goog
                 lstAddress = gc.getFromLocation(mLastLocation.getLatitude(), mLastLocation.getLongitude(), 1);
                 String returnAddress=lstAddress.get(0).getAddressLine(0);
                 Log.d(TAG,returnAddress);
+                MyGAManager.sendActionName(getActivity(),"LastLocation",returnAddress);
 //                MyGAManager.setGaEvent(HeadpageActivity.this,"Location","Location_now",returnAddress);
             } catch (IOException e) {
                 e.printStackTrace();

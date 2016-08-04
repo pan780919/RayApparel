@@ -556,12 +556,12 @@
         "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\al_icon_0_1.png",
-        "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\exploded-aar\\com.adlocus\\library\\3.5.2\\res\\drawable-xhdpi-v4\\al_icon_0_1.png"
-    },
-    {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-xhdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\al_icon_0_1.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\exploded-aar\\com.adlocus\\library\\3.5.2\\res\\drawable-xhdpi-v4\\al_icon_0_1.png"
     },
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",

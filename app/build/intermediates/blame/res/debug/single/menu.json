@@ -100,12 +100,12 @@
         "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\src\\main\\res\\menu\\page_98.xml"
     },
     {
-        "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\src\\main\\res\\menu\\menu_main.xml"
-    },
-    {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\thirtyone.xml",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\src\\main\\res\\menu\\thirtyone.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\page_96.xml",
@@ -448,12 +448,12 @@
         "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\src\\main\\res\\menu\\twentyone.xml"
     },
     {
-        "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fifty.xml",
-        "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\src\\main\\res\\menu\\fifty.xml"
-    },
-    {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\page_78.xml",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\src\\main\\res\\menu\\page_78.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fifty.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\src\\main\\res\\menu\\fifty.xml"
     },
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\thirtyseven.xml",

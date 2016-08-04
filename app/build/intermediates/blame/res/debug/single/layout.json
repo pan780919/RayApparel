@@ -296,12 +296,12 @@
         "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\src\\main\\res\\layout\\activity_thirty.xml"
     },
     {
-        "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adcontentlistview_item.xml",
-        "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\exploded-aar\\RayApparel\\admobadapter\\unspecified\\res\\layout\\adcontentlistview_item.xml"
-    },
-    {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_page_99.xml",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\src\\main\\res\\layout\\activity_page_99.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adcontentlistview_item.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\exploded-aar\\RayApparel\\admobadapter\\unspecified\\res\\layout\\adcontentlistview_item.xml"
     },
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
@@ -404,12 +404,12 @@
         "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\src\\main\\res\\layout\\activity_twentythree.xml"
     },
     {
-        "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fiftythree.xml",
-        "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\src\\main\\res\\layout\\activity_fiftythree.xml"
-    },
-    {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_twentyeight.xml",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\src\\main\\res\\layout\\activity_twentyeight.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fiftythree.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\src\\main\\res\\layout\\activity_fiftythree.xml"
     },
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\RayApparel\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nineteen.xml",
